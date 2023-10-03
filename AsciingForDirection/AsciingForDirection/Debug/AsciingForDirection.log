@@ -1,0 +1,33 @@
+﻿  TestinG.cpp
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(9,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(27,2): error C2065: 'wstring': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(27,10): error C2146: syntax error: missing ';' before identifier '_map_d1'
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(27,10): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(29,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(30,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(31,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(32,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(33,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(34,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(35,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(36,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(37,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(38,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(39,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(40,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(41,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(42,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(43,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(44,2): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(46,14): error C2653: 'chrono': is not a class or namespace name
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(46,36): error C3861: 'now': identifier not found
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(47,14): error C2653: 'chrono': is not a class or namespace name
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(47,36): error C3861: 'now': identifier not found
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(51,10): error C2653: 'chrono': is not a class or namespace name
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(51,32): error C3861: 'now': identifier not found
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(52,3): error C2653: 'chrono': is not a class or namespace name
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(52,11): error C2065: 'duration': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(52,20): error C2062: type 'float' unexpected
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(54,25): error C2065: '_elapsedTime': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(92,10): error C2065: '_map_d1': undeclared identifier
+D:\VSC++\C++File\AsciingForDirection\AsciingForDirection\TestinG.cpp(98,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
